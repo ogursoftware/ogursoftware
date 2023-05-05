@@ -1,5 +1,5 @@
 ### Hi, My name is David Ogur 👋
- I’m currently learning backend development using #Ruby on #rails framework  with a little help from Bootstrap on the frontend.
+ I’m currently learning backend development using Ruby on Rails framework  with a little help from Bootstrap on the frontend.
  <br>
  I also have experince building Android apps using Java/Android Studio and games using C#/Blender/Unity.
  
