@@ -3,7 +3,7 @@
  <br>
  I also have experince building Android apps using Java/Android Studio and games using C#/Blender/Unity.
  <br>
- [![My Skills](https://skillicons.dev/icons?i=androidstudio,cs,blender,bootstrap,ruby,rails,git,bash,linux,vscode,unity&theme=dark&perline=5)](https://skillicons.dev)
+ [![My Skills](https://skillicons.dev/icons?i=androidstudio,cs,blender,bootstrap,ruby,rails,git,bash,linux,vscode,unity&theme=dark)](https://skillicons.dev)
  
  
  
