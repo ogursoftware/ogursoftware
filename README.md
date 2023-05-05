@@ -2,6 +2,9 @@
  I’m currently learning backend development using Ruby on Rails framework  with a little help from Bootstrap on the frontend.
  <br>
  I also have experince building Android apps using Java/Android Studio and games using C#/Blender/Unity.
+ <br>
+ [![My Skills](https://skillicons.dev/icons?i=androidstudio,cs,blender,bootstrap,ruby,rails,git,bash,linux,vscode,unity&theme=dark&perline=5)](https://skillicons.dev)
+ 
  
  
  [![trophy](https://github-profile-trophy.vercel.app/?username=ogursoftware&theme=onedark)](https://github.com/ryo-ma/github-profile-trophy)
