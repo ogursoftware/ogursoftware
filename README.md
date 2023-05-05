@@ -1,10 +1,10 @@
-### Hi, My name is David Ogur 👋
+### Hi, My name is David Ogur
  I’m currently learning backend development using Ruby on Rails framework  with a little help from Bootstrap on the frontend.
  <br>
  I also have experince building Android apps using Java/Android Studio and games using C#/Blender/Unity.
  
  
- [![trophy](https://github-profile-trophy.vercel.app/?username=ogursoftware)](https://github.com/ryo-ma/github-profile-trophy)
+ [![trophy](https://github-profile-trophy.vercel.app/?username=ogursoftware&theme=onedark)](https://github.com/ryo-ma/github-profile-trophy)
 <!--
 **ogursoftware/ogursoftware** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
